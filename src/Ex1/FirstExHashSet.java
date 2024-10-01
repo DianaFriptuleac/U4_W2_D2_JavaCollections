@@ -1,3 +1,10 @@
+/*Scrivere un programma che chieda all'utente di inserire un intero N che rappresenti il numero di elementi da
+inserire e poi gli chieda di inserire N parole. Il programma dovrà:
+- stampare tutte le parole duplicate
+- stampare il numero di parole distinte
+- stampare l'elenco delle parole distinte
+Utilizzare l'interfaccia Set e l'implementazione HashSet*/
+
 package Ex1;
 
 import java.util.HashSet;
